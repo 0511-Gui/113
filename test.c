@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("123456\n");
+	printf("5678\n");
 	return 0;
 }
